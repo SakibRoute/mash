@@ -1,0 +1,115 @@
+@media only screen and (max-width: 1400px){
+	
+}
+
+
+@media only screen and (max-width: 1199px){
+	
+
+}
+
+@media only screen and (max-width: 1170px){
+
+}
+
+
+@media only screen and (max-width: 990px){
+	.section-padding {
+		padding: 100px 0;
+	}
+	.aboutDesc {
+		margin-top: 50px;
+	    text-align: center;
+	}
+	.about-section p {
+	    margin: 35px auto;
+	    max-width: 650px;
+	}
+	.team-member {
+	    margin-bottom: 30px;
+	}
+	.team-section.section-padding {
+	    padding-bottom: 55px;
+	}
+	.team-member-details .social {
+	    display: inline-block;
+	}
+	.price-item {
+	    margin-bottom: 30px;
+	}
+}
+@media only screen and (max-width: 768px){
+	.service-item {
+	    text-align: center;
+	}
+	.service-item .hexagone {
+	    display: inline-block;
+	    float: none;
+	    margin-bottom: 12px;
+	}
+	.button-group .button {
+	    margin: 5px 5px;
+	}
+	.blog-image img{
+		width: 100%;
+	}
+	.getintouch-section input[type=text], select {
+	    width: 44%;
+	}
+	.getintouch-section textarea {
+	    width: 93.5%;
+	}
+}
+@media only screen and (max-width: 600px){
+	h2 {
+    	font-size: 38px;
+    }
+    .team-section .col-xs-6{
+    	width: 100%;
+    }
+    .price-section .col-xs-6{
+    	width: 100%;
+    }
+    .contact-section .col-xs-6{
+    	width: 100%;
+    }
+    .getintouch-section input[type=text], select {
+	    width: 95%;
+	}
+	.getintouch-section textarea {
+	    width: 95%;
+	}
+}
+@media only screen and (max-width: 480px){
+	h4 {
+    	font-size: 20px;
+   	}
+	.section-padding {
+		padding: 60px 0;
+	}
+	.achieve-section .col-xs-6 {
+	    width: 100%;
+	}
+	.service-section .col-xs-6 {
+	    width: 100%;
+	}
+	.latest-work-section  .col-xs-6 {
+	    width: auto;
+	}
+	.blog-item {
+	    text-align: center;
+	}
+	.footer-section {
+	    text-align: center;
+	}
+	.footer-left {
+	    float: none;
+	    margin-bottom: 20px;
+	}
+	.footer-right {
+	    float: none;
+	}
+	.footer-right .social{
+		display: inline-block;
+	}
+}
